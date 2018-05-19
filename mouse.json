@@ -10,7 +10,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "close_bracket",
+                            "key_code": "open_bracket",
                             "modifiers": [ 
                                 "command" 
                             ]
@@ -37,7 +37,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "backslash",
+                            "key_code": "close_bracket",
                             "modifiers": [ 
                                 "command" 
                             ]
